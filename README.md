@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Java & Backend Architecture**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Full-Stack Web Applications,Open Source Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Web Applications,Open Source Projects**
 
 - 🤝 I’m looking for help with **Advanced Backend Architecture & System Design**
 
