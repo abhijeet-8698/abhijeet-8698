@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abhijeet Gaikwad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full-Stack Developer | React | Node.js || Building Scalable Web Applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeet-8698&label=Profile%20views&color=0e75b6&style=flat" alt="abhijeet-8698" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhijeet-8698" alt="abhijeet-8698" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, Java**
+- 🌱 I’m currently learning **React.js, Node.js, Java & Backend Architecture**
+
+- 👯 I’m looking to collaborate on **I’m looking to collaborate on Full-Stack Web Applications,Open Source Projects**
+
+- 🤝 I’m looking for help with **Advanced Backend Architecture & System Design**
 
 - 📫 How to reach me **abhijeetgaikwad9975@gmail.com**
 
